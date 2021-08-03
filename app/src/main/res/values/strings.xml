@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pnote</string>
+
+    <!-- menu strings -->
+    <string name="action_add">Add</string>
+    <string name="action_delete_all">Delete All</string>
+
+    <!-- dialog strings -->
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- add/update ui strings -->
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Content</string>
+    <string name="save_btn_txt">Save</string>
+    <string name="new_note_txt">New Note</string>
+    <string name="success_msg">Successfully saved...</string>
+    <string name="edit_note_title">Edit Note</string>
+    <string name="add_note_title">Add Note</string>
+</resources>
